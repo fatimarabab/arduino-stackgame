@@ -1,4 +1,4 @@
-# arduino-stackgame
+# Arduino Stack Game
 Project using Arduino Uno to play the Stack Game.
 
 Project Date: 
